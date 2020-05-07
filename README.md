@@ -1,4 +1,4 @@
-# ML_start
+# ML_NN_on_MNIST_data
 First attempt with a Neural Network to predict the MNIST data.
 
 Simple approach with a neural network to be able to predict the MNIST data. 
